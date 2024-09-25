@@ -26,17 +26,28 @@
 [🌇 web development](https://github.com/stars/mighabana/lists/web-development)
 | -->
 </div>
-<!--
-**mighabana/mighabana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- 
+banner icons are from https://wwww.flaticon.com please check them out if you need cute icons for your website or other designs!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Data Engineer icons:
+    - database (https://www.flaticon.com/free-icon/database_9850774)
+    - pipe (https://www.flaticon.com/free-icon/pipe_2860157)
+    - chart (https://www.flaticon.com/free-icon/chart_8206134)
+Automation icons:
+    - software (https://www.flaticon.com/free-icon/software_6784506)
+    - coding brain (https://www.flaticon.com/free-icon/coding_4616734)
+    - robot (https://www.flaticon.com/free-icon/robot_6584942)
+Config icons:
+    - file (https://www.flaticon.com/free-icon/file_2521534)
+    - process (https://www.flaticon.com/free-icon/process_4149680)
+    - settings (https://www.flaticon.com/free-icon/settings_3785960)
+Terminal icons:
+    - terminal (https://www.flaticon.com/free-icon/terminal_4248402)
+    - coding (https://www.flaticon.com/free-icon/coding_534621)
+    - pos terminal (https://www.flaticon.com/free-icon/pos-terminal_2645228)
+AI icons:
+    - AI robot (https://www.flaticon.com/free-icon/ai_2814650)
+    - AI chip (https://www.flaticon.com/free-icon/ai_5278402)
+    - technology (https://www.flaticon.com/free-icon/technology_15260321)
+ -->

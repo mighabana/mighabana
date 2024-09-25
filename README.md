@@ -1,8 +1,12 @@
 ![Banner](./images/github-banner.gif)
 <hr/>
 <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mighabana&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" /></a>
-    <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mighabana&layout=compact&theme=nightowl&langs_count=8&hide_border=true" /> </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mighabana&show_icons=true&theme=nightowl&hide_border=true&rank_icon=github" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mighabana&layout=compact&theme=nightowl&langs_count=8&hide_border=true" />
+    </a>
 </div>
 <hr/>
 <div align="center">
